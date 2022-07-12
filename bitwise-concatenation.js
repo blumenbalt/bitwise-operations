@@ -3,7 +3,7 @@
  * Bitwise concatenation
  *
  * it's possible to concat numbers into a single number, using bitwise operations and
- * retrieve the values of number, from this single numbers, using operations
+ * retrieve the values of numbers, from this single number, using operations
  */
 
 //lets say we want to store 3 numbers into one single number, using bitwise operations
